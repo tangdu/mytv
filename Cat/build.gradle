@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "com.jacky.launcher"
-        minSdkVersion 21
+        minSdkVersion 17
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
@@ -41,6 +41,9 @@ android {
     }
 
     lintOptions {
+        checkReleaseBuilds false
+        // 防止在发布的时候出现因MissingTranslation导致Build Failed!
+        disable 'MissingTranslation'
         abortOnError false
     }
 }

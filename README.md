@@ -1,37 +1,43 @@
-
 # AndroidTVLauncher
-
-[中文文档](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/README-CN.md)
 
 ![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/Cat/src/main/res/mipmap-xxhdpi/ic_launcher.jpg)
 
-[Download Apk](https://fir.im/3yhj)
+[下载安装包](https://fir.im/3yhj)
 
-This is a tv launcher, include a leanback launcher(minSdkVersion 17).
+这是一个TV Leanback 风格桌面（最低版本是17），Leanback桌面是基于Leanback库开发符合Android TV官方交互规范。
 
-### Notice
-CatLauncher (Leanback style) function has been basically stable at present, the progress of the follow-up will follow up the official Leanback library
+### 注意
+CatLauncher(Leanback风格) 目前功能已基本稳定，后续会跟进官方Leanback库的进展
 
-### Features
-> * Leanback style
-> * Pictures show
-> * Video broadcast (jiecao player - based on ijkplayer)
-> * Details of the media
-> * The third party application list
-> * Desktop special function
+### 特性
+> * Leanback风格
+> * 图片展示
+> * 视频直播（节操播放器-基于ijkplayer）
+> * 媒体详情
+> * 第三方应用列表
+> * 桌面特殊功能
 
-### Effect Picture
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch1.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch2.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch3.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch4.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch5.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch6.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch7.png)
+### 效果图
+![][image-2]
+![][image-3]
+![][image-4]
+![][image-5]
+![][image-6]
+![][image-7]
+![][image-8]
 
-### The next step to improve
-> * Follow up the official Leanback library new features
+### 下一步的改进
+> * 跟进官方Leanback库新功能
 
 ### License
 
-    License: GNU GPL v3.0
+	License: GNU GPL v3.0
+
+[image-1]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/CatLauncher/src/main/res/mipmap-xxhdpi/ic_launcher.jpg
+[image-2]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch1.png
+[image-3]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch2.png
+[image-4]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch3.png
+[image-5]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch4.png
+[image-6]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch5.png
+[image-7]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch6.png
+[image-8]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch7.png
