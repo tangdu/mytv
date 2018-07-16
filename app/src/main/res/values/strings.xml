@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieCat</string>
+    <string name="app_header_photo_name">History</string>
+    <string name="app_header_video_name">Live</string>
+    <string name="app_header_app_name">App2</string>
+    <string name="app_header_function_name">Function</string>
+</resources>

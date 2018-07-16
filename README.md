@@ -32,12 +32,3 @@ CatLauncher(Leanback风格) 目前功能已基本稳定，后续会跟进官方L
 ### License
 
 	License: GNU GPL v3.0
-
-[image-1]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/CatLauncher/src/main/res/mipmap-xxhdpi/ic_launcher.jpg
-[image-2]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch1.png
-[image-3]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch2.png
-[image-4]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch3.png
-[image-5]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch4.png
-[image-6]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch5.png
-[image-7]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch6.png
-[image-8]:	https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch7.png
